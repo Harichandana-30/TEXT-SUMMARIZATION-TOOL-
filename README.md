@@ -1,14 +1,14 @@
-COMPANY : CODTECH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
-NAME : SAMUDRALA LAKSHMI HARI CHANDANA
+*NAME* : SAMUDRALA LAKSHMI HARI CHANDANA
 
-INTERN ID : CT06DM1148
+*INTERN ID* : CT06DM1148
 
-DOMAIN : ARTIFICIAL INTELLIGENCE
+*DOMAIN* : ARTIFICIAL INTELLIGENCE
 
-DURATION : 6 WEEKS
+*DURATION* : 6 WEEKS
 
-MENTOR : NEELA SANTHOSH
+*MENTOR* : NEELA SANTHOSH
 
 # TEXT-SUMMARIZATION-TOOL
 
@@ -47,4 +47,10 @@ Install all dependencies using the following command:
 
 pip install -r requirements.txt
 
+## output 
+
+
+![Image](https://github.com/user-attachments/assets/307c2166-70bf-4135-bf9c-850184d7efcc)
+
+![Image](https://github.com/user-attachments/assets/b2b82434-5734-452c-afde-263b3a4d2d8f)
 
