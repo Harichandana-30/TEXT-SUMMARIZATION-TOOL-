@@ -1,0 +1,5 @@
+ORIGINAL TEXT:
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. These tasks include problem-solving, learning, reasoning, perception, language understanding, and decision-making. AI technologies power a wide range of applications, from virtual assistants and recommendation systems to autonomous vehicles and medical diagnostics. By analyzing large amounts of data and identifying patterns, AI systems can improve their performance over time, making them valuable tools in industries like healthcare, finance, education, and manufacturing. As AI continues to evolve, it holds the potential to revolutionize how we live and work, while also raising important ethical and societal questions.
+
+SUMMARY:
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. AI technologies power a wide range of applications, from virtual assistants and recommendation systems to autonomous vehicles and medical diagnostics.
