@@ -5,6 +5,7 @@ It allows users to input or load a text file and summarizes the content using th
 The summarized output is displayed and optionally saved to a file.
 It includes functions for input handling, formatting, and saving results efficiently.
 """
+
 import os
 import textwrap
 from transformers import pipeline
